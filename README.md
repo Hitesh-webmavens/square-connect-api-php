@@ -1,4 +1,4 @@
-# square-connect-api-php
+# Square Connect API PHP
 Square Connect API PHP
 
 # Payment processing example: PHP
