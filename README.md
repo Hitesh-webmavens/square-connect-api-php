@@ -52,3 +52,5 @@ transaction by providing the following card information in the form:
 
 **Note that if you are _not_ using your sandbox credentials and you enter _real_
 credit card information, YOU WILL CHARGE THE CARD.**
+
+For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
